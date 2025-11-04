@@ -6,6 +6,8 @@
 <img width="1578" height="1565" alt="checkout_step=2" src="https://github.com/user-attachments/assets/52d54281-b013-4b37-993c-86f51edca602" />
 <img width="1578" height="2185" alt="checkout_step=3" src="https://github.com/user-attachments/assets/a701e6a1-a2af-47dd-b5ff-05efc0a71b84" />
 <img width="1578" height="988" alt="razorpay com_payment-link_plink_Rbd6JKqmWLFAte_test" src="https://github.com/user-attachments/assets/0e347dc0-766e-4ad6-b3ed-1de42827fa22" />
+![paymentsucceful](https://github.com/user-attachments/assets/f1a491fc-2053-428f-99fb-64da94281fd7)
+
 <img width="1571" height="751" alt="cart" src="https://github.com/user-attachments/assets/63ce7284-cd74-4889-8074-f015e5ea13c8" />
 ![orders](https://github.com/user-attachments/assets/931315a9-dbbe-48a0-9ba6-299760618287)
 <img width="1920" height="1030" alt="adminproducts" src="https://github.com/user-attachments/assets/cb33eefa-22b8-4e90-904f-38d5d7b1d6b8" />
