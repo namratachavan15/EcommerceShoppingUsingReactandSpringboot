@@ -126,8 +126,8 @@ const RegisterForm = () => {
                 </Select> */}
 
 <Select name="role" defaultValue="ROLE_CUSTOMER">
-  <MenuItem value="ROLE_CUSTOMER">User</MenuItem>
-  <MenuItem value="ROLE_ADMIN">Admin</MenuItem>
+  <MenuItem value="CUSTOMER">User</MenuItem>
+  <MenuItem value="ADMIN">Admin</MenuItem>
 </Select>
 
               </FormControl>
@@ -167,3 +167,4 @@ const RegisterForm = () => {
 };
 
 export default RegisterForm;
+
